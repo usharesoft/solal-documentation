@@ -1,13 +1,12 @@
 Bienvenue sur le centre d'assistance Solal
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
+**Solal** est une plateforme permettant de gérer votre patrimoine numérique de manière sécurisée.
+
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
 
-Check out the :doc:`account` section for further information, including
-how to :ref:`installation` the project.
+Allez voir la section :doc:`account` pour plus d'informations sur la plateforme, en particulier :ref:`account-creation` pour créer votre compte.
 
 .. note::
 
@@ -18,5 +17,4 @@ Contents
 
 .. toctree::
 
-   usage
    account
