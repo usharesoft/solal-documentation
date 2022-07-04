@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Bienvenue sur le centre d'assistance Solal
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
