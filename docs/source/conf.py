@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Solal'
+copyright = '2022, Grenoble'
+author = 'Solal Team'
 
 release = '0.1'
 version = '0.1.0'
