@@ -1,9 +1,12 @@
 Gestion du compte
 =====
 
+.. _account-creation:
 
 Création de mon compte
 ------------
+
+Pour créer votre compte, rendez vous sur cette page.
 
 
 Compléter mes informations de profile
