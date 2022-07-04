@@ -15,9 +15,4 @@ Contents
 --------
 
 .. toctree::
-  :caption: Utilisation
    account
-
-
-.. toctree::
-  :caption: Gestion de vos données
