@@ -6,7 +6,7 @@ Gestion du compte
 Création de mon compte
 ------------
 
-Pour créer votre compte, rendez vous sur cette page.
+Pour créer votre ``compte``, rendez vous sur `cette page <https://www.solaltech.fr/>`_.
 
 
 Compléter mes informations de profile
