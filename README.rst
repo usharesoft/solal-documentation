@@ -1,8 +1,5 @@
-Template for the Read the Docs tutorial
+Documentation du site Solal Tech
 =======================================
-
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
 
 Read the tutorial here:
 
